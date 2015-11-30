@@ -154,11 +154,8 @@
 	    <version>1.1.4</version>
 	    <configuration>
 	        <targetClasses>
-	            <param>com.disklrucache.workspace.src.main.*</param>
+	            <param>com.disklrucache.workspace.src.main*</param>
 	        </targetClasses>
-	        <targetTests>
-	            <param>com.disklrucache.workspace.src.test.*</param>
-	        </targetTests>
 	        <failWhenNoMutations>false</failWhenNoMutations>
 	            <outputFormats>
 	                <outputFormat>XML</outputFormat>
