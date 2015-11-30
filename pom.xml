@@ -154,7 +154,7 @@
 	    <version>1.1.4</version>
 	    <configuration>
 	        <targetClasses>
-	            <param>com.disklrucache*</param>
+	            <param>com.disklrucache.workspace.src.main.*</param>
 	        </targetClasses>
 	        <failWhenNoMutations>false</failWhenNoMutations>
 	            <outputFormats>
